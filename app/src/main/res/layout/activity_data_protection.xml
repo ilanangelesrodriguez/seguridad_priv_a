@@ -88,6 +88,15 @@
             android:text="@string/btn_clear_data"
             android:layout_marginStart="8dp" />
 
+        <Button
+            android:id="@+id/btnExportLogs"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/exportar_logs"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp" />
+
     </LinearLayout>
 
 </LinearLayout>
