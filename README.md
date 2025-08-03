@@ -1,9 +1,6 @@
-# 🛡️ Proyecto: Análisis y Fortalecimiento de Seguridad en Aplicaciones Android
+# 🛡️ Análisis y Fortalecimiento de Seguridad en Aplicaciones
 
 <div align="center">
-
-**Un Enfoque Integral en Ciberseguridad Móvil**
-
 ---
 
 **👨‍🎓 Estudiante:** Ilan Angeles Rodriguez  
@@ -77,7 +74,6 @@ Este trabajo representa un paso crucial hacia el desarrollo de aplicaciones móv
 
 <div align="center">
  
-**🔍 Versión del Proyecto:** Arquitectura de Seguridad Avanzada  
 **👨‍💻 Desarrollador Principal:** Ilan Angeles Rodriguez  
 **🏛️ Universidad:** Universidad Nacional del Santa (UNS)  
 **📚 Curso:** Aplicaciones Móviles
