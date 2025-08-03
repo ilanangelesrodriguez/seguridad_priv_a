@@ -65,4 +65,5 @@
     <string name="log_entry_format">%1$s - %2$s: %3$s</string>
     <string name="encryption_info">Los datos sensibles se encriptan usando AES-256</string>
     <string name="privacy_policy_text">Esta aplicación es una demostración de permisos y protección de datos en Android.\n\nPermisos utilizados:\n• Cámara: Para tomar fotos de demostración\n• Galería: Para seleccionar imágenes\n• Micrófono: Para grabar audio\n• Contactos: Para mostrar lista de contactos\n• Teléfono: Para realizar llamadas\n• Ubicación: Para obtener ubicación aproximada\n\nProtección de datos:\n• Todos los accesos se registran\n• Los datos se encriptan localmente\n• Se puede borrar toda la información\n• No se comparten datos con terceros</string>
+    <string name="exportar_logs">Exportar Logs</string>
 </resources>
