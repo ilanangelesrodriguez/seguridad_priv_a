@@ -1,14 +1,12 @@
 # 🛡️ Análisis y Fortalecimiento de Seguridad en Aplicaciones
 
 <div align="center">
----
 
 **👨‍🎓 Estudiante:** Ilan Angeles Rodriguez  
 **🏛️ Universidad:** Universidad Nacional del Santa (UNS)  
 **📚 Curso:** Aplicaciones Móviles  
 **📧 Email:** 202014026@uns.edu.pe
 
----
 
 </div>
 
@@ -20,7 +18,6 @@ Este proyecto se divide en tres fases principales, cada una abordando un aspecto
 - [🔧 Parte 2: Implementación y Mejoras Intermedias](parte-2_implementacion-mejoras-intermedias.md)
 - [🏛️ Parte 3: Arquitectura de Seguridad Avanzada](parte-3_arquitectura-de-seguridad-avanzada.md)
 
----
 
 ## 📝 Parte 1: Análisis de Seguridad Android
 
@@ -32,7 +29,7 @@ La primera fase del proyecto se centró en realizar un **análisis exhaustivo de
 
 Se generó un informe detallado que documenta las vulnerabilidades encontradas, clasificándolas por severidad y proporcionando recomendaciones iniciales para su mitigación. Esta fase sentó las bases para las mejoras posteriores.
 
----
+
 
 ## 🔧 Parte 2: Implementación y Mejoras Intermedias
 
@@ -44,7 +41,7 @@ La segunda fase se dedicó a la **implementación de mejoras intermedias** basad
 
 Se logró un incremento significativo en el nivel de seguridad, pasando de un estado básico a uno intermedio, con una mayor cobertura de detección de amenazas y una experiencia de usuario fluida.
 
----
+
 
 ## 🏛️ Parte 3: Arquitectura de Seguridad Avanzada
 
@@ -56,7 +53,6 @@ La tercera y última fase se centró en la **implementación de una arquitectura
 
 La implementación de la Parte 3 eleva la seguridad de la aplicación a un **nivel de clase mundial**, proporcionando una defensa robusta contra amenazas avanzadas, garantizando la privacidad por diseño y ofreciendo capacidades forenses y de cumplimiento automatizadas.
 
----
 
 ## 🏆 Conclusión General del Proyecto
 
